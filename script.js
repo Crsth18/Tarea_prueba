@@ -22,10 +22,10 @@ const SITE = {
     { label: "Instagram", url: "https://www.instagram.com/alxzn.fr?srtk=MmFtcm9neWMybzVl" }
   ],
   about: {
-    lead: "[Escribe aquí, en una o dos frases, quién eres y qué te mueve profesionalmente.]",
+    lead: "[Soy un desarrollador frontend apasionado por el diseño gráfico, impulsado por el reto de crear productos digitales atractivos y de alto impacto que aporten un gran valor al mercado y me permitan crecer profesionalmente a gran escala.]",
     story: [
-      "[Cuenta cómo empezaste: qué te llevó al diseño o al desarrollo y cuál fue tu primer proyecto relevante.]",
-      "[Describe tu trayectoria reciente y el tipo de trabajo que más disfrutas.]"
+      "[Ver el mundo web como una posibilidad de transmitir ideas y conceptos de diseño.]",
+      "[Hoy en día me apasiona el movimiento y el diseño simple, sin tanto resalte.]"
     ],
     interests: ["[Ing. de Software ]", "[Diseño Grafico Digital]", "[Docente de Natación]", "[Deportista Voleyball]"],
     goals: ["[Tener un trabajo de Front-end y estudiarlo más]", "[Llegar a trabajar indenpendiente]"],
