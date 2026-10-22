@@ -5,21 +5,21 @@
    muestra como "enlace pendiente" hasta que la completes.
    ============================================================ */
 const SITE = {
-  name: "[Tu Nombre]",
+  name: "[Alexand3r M.]",
   monogram: "TN",
-  role: "[Tu rol profesional]",
-  location: "[Ciudad, País]",
-  headline: "Interfaces con criterio, construidas con precisión.",
-  intro: "[Una o dos frases sobre qué haces, para quién y con qué enfoque.]",
+  role: "[Ing. de Software]",
+  location: "[Lima, Perú]",
+  headline: "Ingeniero de Software proximamente Diseñador Grafico.",
+  intro: "[Hay pasión, falta talento.]",
   photo: "",                     // URL o data URI de tu fotografía (proporción 4:5)
-  photoAlt: "[Descripción de tu fotografía]",
-  availability: { open: true, label: "Disponible para nuevos proyectos", since: "[Mes Año]" },
-  email: "tu@correo.com",
+  photoAlt: "[Me]",
+  availability: { open: true, label: "Disponible para nuevos proyectos", since: "[08 06]" },
+  email: "crismcoficial@gmail.com",
   socials: [
     { label: "LinkedIn", url: "" },
-    { label: "GitHub", url: "" },
-    { label: "Behance", url: "" },
-    { label: "Instagram", url: "" }
+    { label: "GitHub", url: "https://github.com/Crsth18" },
+    { label: "Tiktok", url: "@alxzn.fr" },
+    { label: "Instagram", url: "https://www.instagram.com/alxzn.fr?srtk=MmFtcm9neWMybzVl" }
   ],
   about: {
     lead: "[Escribe aquí, en una o dos frases, quién eres y qué te mueve profesionalmente.]",
@@ -27,8 +27,8 @@ const SITE = {
       "[Cuenta cómo empezaste: qué te llevó al diseño o al desarrollo y cuál fue tu primer proyecto relevante.]",
       "[Describe tu trayectoria reciente y el tipo de trabajo que más disfrutas.]"
     ],
-    interests: ["[Interés personal 1]", "[Interés personal 2]", "[Interés personal 3]", "[Interés personal 4]"],
-    goals: ["[Objetivo profesional a corto plazo]", "[Objetivo profesional a largo plazo]"],
+    interests: ["[Ing. de Software ]", "[Diseño Grafico Digital]", "[Docente de Natación]", "[Deportista Voleyball]"],
+    goals: ["[Tener un trabajo de Front-end y estudiarlo más]", "[Llegar a trabajar indenpendiente]"],
     philosophy: [   // Ejemplo: sustituye por tus propios principios
       { title: "Claridad antes que ornamento", text: "Cada elemento de la interfaz debe tener una razón para estar ahí." },
       { title: "Rendimiento como diseño", text: "Una página rápida es parte de la experiencia, no un detalle técnico." },
@@ -36,9 +36,9 @@ const SITE = {
     ]
   },
   experience: [
-    { period: "[Año — Actualidad]", role: "[Cargo actual]", org: "[Empresa o estudio]", description: "[Responsabilidades y logros principales, en una o dos frases.]" },
-    { period: "[Año — Año]", role: "[Cargo anterior]", org: "[Empresa o estudio]", description: "[Responsabilidades y logros principales, en una o dos frases.]" },
-    { period: "[Año — Año]", role: "[Primer cargo]", org: "[Empresa o estudio]", description: "[Responsabilidades y logros principales, en una o dos frases.]" }
+    { period: "[2026 — Actualidad]", role: "[Ing de Software]", org: "[Senati]", description: "[Responsabilidades y logros principales, en una o dos frases.]" },
+    { period: "[2024 Abril — 2024 Julio]", role: "[Mesero]", org: "[Polleria León]", description: "[Responsabilidades y logros principales, en una o dos frases.]" },
+    { period: "[2025 — 2025]", role: "[Docente de Natación]", org: "[Serpar]", description: "[Responsabilidades y logros principales, en una o dos frases.]" }
   ],
   education: [
     { period: "[Año — Año]", title: "[Titulación o programa]", org: "[Institución]" },
