@@ -11,7 +11,7 @@ const SITE = {
   location: "[Lima, Perú]",
   headline: "Ingeniero de Software proximamente Diseñador Grafico.",
   intro: "[Hay pasión, falta talento.]",
-  photo: "",                     // URL o data URI de tu fotografía (proporción 4:5)
+  photo: "proyectoc_git/crishola.jpeg",                     // URL o data URI de tu fotografía (proporción 4:5)
   photoAlt: "[Me]",
   availability: { open: true, label: "Disponible para nuevos proyectos", since: "[08 06]" },
   email: "crismcoficial@gmail.com",
@@ -41,8 +41,9 @@ const SITE = {
     { period: "[2025 — 2025]", role: "[Docente de Natación]", org: "[Serpar]", description: "[Responsabilidades y logros principales, en una o dos frases.]" }
   ],
   education: [
-    { period: "[Año — Año]", title: "[Titulación o programa]", org: "[Institución]" },
-    { period: "[Año]", title: "[Curso o certificación]", org: "[Institución o plataforma]" }
+    { period: "[2012 — 2023]", title: "[Educación Primaria - Secundaria]", org: "[I.E Heroes del Cenepa N°130]" },
+    { period: "[2024 - 2027]", title: "[Ingeniero de Software]", org: "[SENATI]" },
+    { period: "[2027 - 2032]", title: "[Diseño Grafico Digital]", org: "[UTP]" }
   ],
   skills: [       // Ejemplo: sustituye por tus herramientas reales
     { group: "Diseño", items: ["Figma", "Prototipado", "Sistemas de diseño", "Tipografía"] },
